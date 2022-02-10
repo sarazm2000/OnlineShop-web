@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+# Before run the project run the commands below:
+
+### `npm i node-modules`
+
+### `yarn add react-spring`
+
 In the project directory, you can run:
 
 ### `npm start`
